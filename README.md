@@ -13,7 +13,7 @@
 npm install --save-dev avanti/avanti-bootstrap-4.git#v4.1.3-avanti
 ```
 
-## Avanti Class list
+## avanti-bootstrap class list
 
 ```
 .av-container-fluid

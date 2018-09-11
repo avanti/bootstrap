@@ -2,10 +2,10 @@
 // Visibility utilities
 //
 
-.visible {
+.av-visible {
   @include invisible(visible);
 }
 
-.invisible {
+.av-invisible {
   @include invisible(hidden);
 }
